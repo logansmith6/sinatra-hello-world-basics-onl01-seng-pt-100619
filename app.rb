@@ -5,12 +5,12 @@ class App < Sinatra::Base
       "Hello, World!"
 
   end
-  def test
+  def tester
   x = ""
   x = gets
   puts x
 end
-test
+tester
 
 
 end
