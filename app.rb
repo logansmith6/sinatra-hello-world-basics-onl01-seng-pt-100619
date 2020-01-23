@@ -9,8 +9,8 @@ class App < Sinatra::Base
   x = ""
   x = gets
   puts x
-end 
-test 
+end
+test
 
 
 end
