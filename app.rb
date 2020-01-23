@@ -5,6 +5,7 @@ class App < Sinatra::Base
       "Hello, World!"
 
   end
+  x = ""
   x = gets
   puts x
 
