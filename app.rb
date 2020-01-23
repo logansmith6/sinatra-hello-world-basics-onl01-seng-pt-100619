@@ -4,7 +4,7 @@ class App < Sinatra::Base
     get '/' do
       "Hello, World!"
       x = gets
-      puts x 
+      puts x
   end
 
 
